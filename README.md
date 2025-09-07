@@ -1,4 +1,4 @@
-# PasswordReset-OAuthIntegration
+# Password-Reset-OAuth-Integration-Golang
 
 This project is an email notification service that provides user authentication features, including password reset and email verification. This project also supports OAuth authentication with Google and Facebook.
 
@@ -166,5 +166,5 @@ Follow these steps to install and set up the KosKita API:
     ```
 ## 🤖 Author
 
-- **Lendra Syaputra**
-  - [Github](https://github.com/lendral3n)
+- **William Ramen**
+  - [Github](https://github.com/william-ramen)
